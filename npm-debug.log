@@ -7,7 +7,7 @@
 6 silly lifecycle MEAN@0.0.8~preapp: no script for preapp, continuing
 7 info lifecycle MEAN@0.0.8~app: MEAN@0.0.8
 8 verbose lifecycle MEAN@0.0.8~app: unsafe-perm in lifecycle true
-9 verbose lifecycle MEAN@0.0.8~app: PATH: /usr/share/npm/bin/node-gyp-bin:/home/charith/Documents/SEM impl/OCS/node_modules/.bin:/usr/share/npm/bin/node-gyp-bin:/home/charith/Documents/SEM impl/OCS/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+9 verbose lifecycle MEAN@0.0.8~app: PATH: /usr/share/npm/bin/node-gyp-bin:/home/charith/Documents/SEM impl/OCS/node_modules/.bin:/usr/share/npm/bin/node-gyp-bin:/home/charith/Documents/SEM impl/OCS/node_modules/.bin:/home/charith/Downloads/google-cloud-sdk/bin:/home/charith/Downloads/google-cloud-sdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
 10 verbose lifecycle MEAN@0.0.8~app: CWD: /home/charith/Documents/SEM impl/OCS
 11 silly lifecycle MEAN@0.0.8~app: Args: [ '-c', 'node server' ]
 12 silly lifecycle MEAN@0.0.8~app: Returned: code: 1  signal: null
@@ -24,7 +24,7 @@
 14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:230:5)
 15 verbose pkgid MEAN@0.0.8
 16 verbose cwd /home/charith/Documents/SEM impl/OCS
-17 error Linux 4.13.0-32-generic
+17 error Linux 4.13.0-36-generic
 18 error argv "/usr/bin/node" "/usr/bin/npm" "run" "app"
 19 error node v6.11.4
 20 error npm  v3.5.2
